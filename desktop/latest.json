@@ -1,8 +1,8 @@
 ﻿{
     "version":  "0.5.1.9",
     "notes":  "Release 0.5.1.9\r\n-checking to make sure that the update issue was because of the repo move",
-    "installer_url":  "https://github.com/cjadew/anime-va-updates/releases/download/v0.5.1.9/Anime.VA.Setup.0.5.1.9.exe",
+    "installer_url":  "https://github.com/sidequest-goblins/anime-va-updates/releases/download/v0.5.1.9/Anime.VA.Setup.0.5.1.9.exe",
     "sha256":  "8D20AFCF0EF42FE2DDA9FD85953E9B51FB844A2E348BFE1FC5FF6F27E9F54CE8",
     "latest_version":  "0.5.1.9",
-    "url":  "https://github.com/cjadew/anime-va-updates/releases/download/v0.5.1.9/Anime.VA.Setup.0.5.1.9.exe"
+    "url":  "https://github.com/sidequest-goblins/anime-va-updates/releases/download/v0.5.1.9/Anime.VA.Setup.0.5.1.9.exe"
 }

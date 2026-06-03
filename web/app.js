@@ -25,7 +25,7 @@ let currentPage = 1;
 // Set this to wherever FastAPI is deployed.
 // For local dev use: "http://localhost:8000"
 const SYNC_API_BASE = "https://anime-va-profile-server.onrender.com";
-const IMAGE_BASE_URL = "https://raw.githubusercontent.com/cjadew/anime-va-images/main";
+const IMAGE_BASE_URL = "https://raw.githubusercontent.com/sidequest-goblins/anime-va-images/main";
 const IMAGE_VERSION = "2026-03-22_13-41-50"; // for cache-busting if needed
 
 // Later we'll let users pick this; for now, just "jades"
